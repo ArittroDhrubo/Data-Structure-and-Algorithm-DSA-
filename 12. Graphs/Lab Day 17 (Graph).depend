@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1734027963 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 17 (graph)\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1734027963 e:\cse 225 (dsa with c++)\cse 225-l\lab day 17 (graph)\quetype.h
+
+1734027963 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 17 (graph)\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
+1734027963 e:\cse 225 (dsa with c++)\cse 225-l\lab day 17 (graph)\stacktype.h
+
+1734028924 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 17 (graph)\heaptype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1734028920 e:\cse 225 (dsa with c++)\cse 225-l\lab day 17 (graph)\graphtype.h
+	"stacktype.h"
+	"quetype.h"
+
+1734027963 e:\cse 225 (dsa with c++)\cse 225-l\lab day 17 (graph)\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
+1734027963 e:\cse 225 (dsa with c++)\cse 225-l\lab day 17 (graph)\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1734029059 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 17 (graph)\main.cpp
+	<iostream>
+	"graphtype.h"
+	"heaptype.cpp"
+	"stacktype.h"
+	"quetype.h"
+
+1734028924 e:\cse 225 (dsa with c++)\cse 225-l\lab day 17 (graph)\heaptype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+

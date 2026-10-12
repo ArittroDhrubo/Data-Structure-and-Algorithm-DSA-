@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1733905062 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 15\main.cpp
+	<iostream>
+	"binarysearchtree.h"
+	"quetype.h"
+
+1733905062 e:\cse 225 (dsa with c++)\cse 225-l\lab day 15\binarysearchtree.h
+	"quetype.h"
+
+1733905062 e:\cse 225 (dsa with c++)\cse 225-l\lab day 15\quetype.h
+
+1733905062 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 15\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1733905102 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 15\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1733905062 e:\cse 225 (dsa with c++)\cse 225-l\lab day 15\quetype.cpp
+	"quetype.h"
+	<iostream>
+

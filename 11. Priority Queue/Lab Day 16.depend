@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1733923595 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 16\heaptype.cpp
+	"heaptype.h"
+	<iostream>
+
+1733923595 e:\cse 225 (dsa with c++)\cse 225-l\lab day 16\heaptype.h
+
+1733923848 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 16\pqtype.cpp
+	"pqtype.h"
+	<iostream>
+
+1733925100 e:\cse 225 (dsa with c++)\cse 225-l\lab day 16\pqtype.h
+	"heaptype.h"
+	"heaptype.cpp"
+
+1733923595 e:\cse 225 (dsa with c++)\cse 225-l\lab day 16\heaptype.cpp
+	"heaptype.h"
+	<iostream>
+
+1733924768 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 16\main.cpp
+	<iostream>
+	"heaptype.h"
+	"pqtype.h"
+

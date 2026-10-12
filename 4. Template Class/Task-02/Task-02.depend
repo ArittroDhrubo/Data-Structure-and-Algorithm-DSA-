@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1727453843 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 04\task-02\main.cpp
+	<iostream>
+	"Template2D.h"
+
+1727453801 e:\cse 225 (dsa with c++)\cse 225-l\lab day 04\task-02\template2d.h
+
+1727453870 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 04\task-02\task-02.cpp
+	<iostream>
+	"Template2D.h"
+

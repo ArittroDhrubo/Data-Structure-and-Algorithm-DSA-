@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1727452570 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 04\task-01\main.cpp
+	<iostream>
+	"Template.h"
+	<conio.h>
+
+1727452714 e:\cse 225 (dsa with c++)\cse 225-l\lab day 04\task-01\template.h
+
+1727452714 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 04\task-01\task-01.cpp
+	<iostream>
+	"Template.h"
+

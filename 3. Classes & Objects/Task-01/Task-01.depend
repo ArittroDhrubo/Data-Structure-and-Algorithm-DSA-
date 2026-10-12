@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1727447970 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 03\task-01\main.cpp
+	<iostream>
+	"ArrayClass.h"
+	<conio.h>
+
+1727447986 e:\cse 225 (dsa with c++)\cse 225-l\lab day 03\task-01\arrayclass.h
+

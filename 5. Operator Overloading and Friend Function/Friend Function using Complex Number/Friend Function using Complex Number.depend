@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1727618726 source:e:\cse 225 (dsa with c++)\theory and practice problems\friend function using complex number\friend.cpp
+	"Friend.h"
+	<iostream>
+
+1727618726 e:\cse 225 (dsa with c++)\theory and practice problems\friend function using complex number\friend.h
+
+1727618726 source:e:\cse 225 (dsa with c++)\theory and practice problems\friend function using complex number\main.cpp
+	<iostream>
+	<conio.h>
+	"Friend.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1727618367 source:e:\cse 225 (dsa with c++)\theory and practice problems\complex number\complex.cpp
+	"Complex.h"
+	<iostream>
+
+1727618367 e:\cse 225 (dsa with c++)\theory and practice problems\complex number\complex.h
+
+1727618308 source:e:\cse 225 (dsa with c++)\theory and practice problems\complex number\main.cpp
+	<iostream>
+	<conio.h>
+	"Complex.h"
+

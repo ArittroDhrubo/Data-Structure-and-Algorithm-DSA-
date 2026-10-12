@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1727419863 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 00\task-04\main.cpp
+	<iostream>
+	"Arithmatic Perform.h"
+	<conio.h>
+
+1727419772 e:\cse 225 (dsa with c++)\cse 225-l\lab day 00\task-04\arithmatic perform.h
+
+1727419818 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 00\task-04\task-04.cpp
+	"Arithmatic Perform.h"
+	<iostream>
+

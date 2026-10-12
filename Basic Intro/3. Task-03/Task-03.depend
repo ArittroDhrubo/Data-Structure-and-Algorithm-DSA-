@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1727419109 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 00\task-03\task-03.cpp
+	"EvenOddVerifier.h"
+	<iostream>
+
+1727419140 e:\cse 225 (dsa with c++)\cse 225-l\lab day 00\task-03\evenoddverifier.h
+
+1727419150 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 00\task-03\main.cpp
+	<iostream>
+	"EvenOddVerifier.h"
+

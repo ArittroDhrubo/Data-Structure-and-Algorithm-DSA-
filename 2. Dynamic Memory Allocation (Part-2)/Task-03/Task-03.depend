@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1727442605 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 02\task-03\main.cpp
+	<iostream>
+	"Int2DDynArr.h"
+	<conio.h>
+
+1727442605 e:\cse 225 (dsa with c++)\cse 225-l\lab day 02\task-03\int2ddynarr.h
+
+1727442605 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 02\task-03\task-03.cpp
+	"Int2DDynArr.h"
+	<iostream>
+

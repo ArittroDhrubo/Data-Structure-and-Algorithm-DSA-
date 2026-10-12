@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1729895578 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 07\task-01 sorted list\main.cpp
+	<iostream>
+	"Sortedtype.h"
+	"timeStamp.h"
+
+1729894840 e:\cse 225 (dsa with c++)\cse 225-l\lab day 07\task-01 sorted list\sortedtype.h
+
+1729894894 e:\cse 225 (dsa with c++)\cse 225-l\lab day 07\task-01 sorted list\timestamp.h
+
+1729895359 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 07\task-01 sorted list\sortedtype.cpp
+	"Sortedtype.h"
+	"timeStamp.h"
+	<iostream>
+
+1729895406 source:e:\cse 225 (dsa with c++)\cse 225-l\lab day 07\task-01 sorted list\timestamp.cpp
+	"timeStamp.h"
+	"Sortedtype.h"
+	<iostream>
+
